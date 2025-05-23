@@ -18,3 +18,7 @@ This python program uses DQN (Deep Q-Learning) Algorithm to train a simulated ca
 https://drive.google.com/drive/folders/1ZYMVxbphS7ug1sGe6_bz4c_zRqiSCSF_?usp=sharing
 
 
+
+
+# Would you recommend CS as a course?
+No.
